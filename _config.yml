@@ -20,7 +20,7 @@
 
 title: CoderChrisMills
 description: >- # this means to ignore newlines until "baseurl:"
-  A place for me to write about UI/UX code, coding, and garden amoung other things 
+  A place for me to write about UI/UX, game dev, and gardening among other things 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coderchrismills.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  coderchrismills
