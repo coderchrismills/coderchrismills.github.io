@@ -3,12 +3,12 @@ layout: post
 title: "Intersection Testing UI Demo"
 date: 2022-10-11 21:00
 description: Implementing a small UI widget from a previous post 
-tags: UI-UX, Game-Dev
+categories: Game-Development
 ---
 
 # Intersection Testing UI Demo
 
-In a [previous post](https://coderchrismills.com/articles/intersection-testing-demo/) on intersection testing I describe a UI widget that would always point to an element on a map. It was a long weekend for Pipeworks (Indigenous People's day here in the U.S.) so I decided to spend some time in Unreal and implement a rough version. Source is available on [Github](https://github.com/coderchrismills/CommonUIPlayground).
+In a [previous post]({% link _posts/2022-07-31-intersection-testing-demo.md %}) on intersection testing I describe a UI widget that would always point to an element on a map. It was a long weekend for Pipeworks (Indigenous People's day here in the U.S.) so I decided to spend some time in Unreal and implement a rough version. Source is available on [Github](https://github.com/coderchrismills/CommonUIPlayground).
 
 ![Imaging showing map marker with points marked for intersection](/assets/images/intersection-testing-ui-demo/unreal-map-ui-marker.png)
 
