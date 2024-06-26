@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-06-20 21:00
+date: 2024-06-25 18:01
 title: "A Potential Future for Games"
 description: Some observations on where I think the industry is going
 categories: Game-Development
